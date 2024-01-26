@@ -1,0 +1,9 @@
+.venv
+.vscode/
+*.pyc
+.env
+.DS_Store
+.idea
+__pycache__
+test.db
+illustration2.jpeg
